@@ -29,3 +29,5 @@ Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
 <img src="https://raw.githubusercontent.com/BedirZanaDemir/AKILLI_EV_ARDUINO/master/resimler/2.jpg"></img>
 
 <img src="https://raw.githubusercontent.com/BedirZanaDemir/AKILLI_EV_ARDUINO/master/resimler/3.jpg"></img>
+
+<img src="https://raw.githubusercontent.com/BedirZanaDemir/AKILLI_EV_ARDUINO/master/resimler/_20180418_194428.JPG"></img>
