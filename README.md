@@ -7,7 +7,7 @@ Günümüzde adını sıkça duymaya başladığımız uzaktan kontrollü akıll
 
 <img src="https://raw.githubusercontent.com/bedirdemir/Akilli_Ev_Arduino/master/resimler/266579-1.jpg"></img>
 
-Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların çalışma mantığını basitçe anlatmak amacıyla Arduino kart ile bu devreyi ve yazılımı geliştirdim. Yapabildikleri kısaca şu şekilde:
+Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların çalışma mantığını basitçe anlatmak amacıyla Arduino kart ile bu devreyi ve yazılımı geliştirdim. Yapabildikleri şu şekilde:
 
 - Hazırladığım android uygulama aracılığıyla (bkz:appinventor) Bluetooth bağlantısını kurup veri iletişimini sağlar ve gelen veriler doğrultusunda işlem yapar. (Android uygulama ve uygulamanın geliştirme dosyası proje dosyalarında mevcuttur)
 - Sıcaklığı hesaplayıp LCD ekrana ve android uygulamasına yazdırır.
