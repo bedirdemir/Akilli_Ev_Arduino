@@ -3,11 +3,13 @@
 
 **Arduino İle Bluetooth Kontrollü Akıllı Ev Yapımı**
 
-Günümüzde adını sıkça duymaya başladığımız uzaktan kontrollü akıllı evler hızla hayatımıza girmiş durumda. Şüphesiz ki ilerleyen süreçte daha gelişmiş versiyonlarıyla karşılaşmaya devam edeceğiz.
+Günümüzde adını sıkça duymaya başladığımız uzaktan kontrollü akıllı evler ve cihazlar hayatımıza hızla girmiş durumda. Şüphesiz ki ilerleyen süreçte daha gelişmiş versiyonlarıyla karşılaşmaya devam edeceğiz.
 
-Bu projemde akıllı evlerin çalışma mantığını basitçe anlatmak adına Arduino kart ile bu devreyi ve yazılımı geliştirdim. Yapabildikleri kısaca şu şekilde:
+<img src="https://raw.githubusercontent.com/bedirdemir/Akilli_Ev_Arduino/master/resimler/266579-1.jpg"></img>
 
-- Hazırlamış olduğum android uygulama aracılığıyla (bkz:appinventor) Bluetooth bağlantısını kurup veri iletişimini sağlar ve gelen veriler doğrultusunda işlem yapar. (Android uygulama ve uygulamanın kod geliştirme dosyası proje dosyalarında mevcuttur)
+Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların çalışma mantığını basitçe anlatmak amacıyla Arduino kart ile bu devreyi ve yazılımı geliştirdim. Yapabildikleri kısaca şu şekilde:
+
+- Hazırladığım android uygulama aracılığıyla (bkz:appinventor) Bluetooth bağlantısını kurup veri iletişimini sağlar ve gelen veriler doğrultusunda işlem yapar. (Android uygulama ve uygulamanın geliştirme dosyası proje dosyalarında mevcuttur)
 - Sıcaklığı hesaplayıp LCD ekrana ve android uygulamasına yazdırır.
 - Servo motor kullanarak evin kapısını açıp/kapatır.
 - İç lambaları açıp/kapatır.
@@ -17,8 +19,10 @@ Bu projemde akıllı evlerin çalışma mantığını basitçe anlatmak adına A
 - Yaptığı işlemleri LCD ekrana yazarak kullanıcıyı bilgilendirir.
 
 Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
+
+Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedir@protonmail.com
 ## İndir
-<a href="https://github.com/BedirZanaDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı_Ev_Projesi_Arduino v1.0</a>
+<a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino v1.0 Download</a>
 ## Devre Şeması
 <img src="https://raw.githubusercontent.com/BedirZanaDemir/AKILLI_EV_ARDUINO/master/devre/akilli_ev_devre_bb.png"></img>
 ## Görseller
