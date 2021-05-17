@@ -1,6 +1,6 @@
 /*
 Akıllı Ev Projesi
-github.com/BedirZanaDemir
+github.com/BedirDemir
 09.04.2018
 */
 
