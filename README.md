@@ -20,7 +20,7 @@ Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların 
 
 Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
 
-Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedir@protonmail.com
+Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedirzanademir@outlook.com
 ## İndir
 <a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino v1.0 Download</a>
 ## Devre Şeması
