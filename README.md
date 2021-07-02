@@ -1,6 +1,7 @@
 # Akıllı Ev Projesi (Arduino)
 <img src="https://raw.githubusercontent.com/BedirZanaDemir/AKILLI_EV_ARDUINO/master/resimler/4.jpg"></img>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bedirdemir.akilli_ev_arduino)
+
 **Arduino İle Bluetooth Kontrollü Akıllı Ev Yapımı**
 
 Günümüzde adını sıkça duymaya başladığımız uzaktan kontrollü akıllı evler ve cihazlar hayatımıza hızla girmiş durumda. Şüphesiz ki ilerleyen süreçte daha gelişmiş versiyonlarıyla karşılaşmaya devam edeceğiz.
