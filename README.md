@@ -19,7 +19,9 @@ Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların 
 
 ## Proje Dosyalarını İndir
 <a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino-Download</a>
-
+## Devre Şeması
+<img src="https://raw.githubusercontent.com/BedirDemir/AKILLI_EV_ARDUINO/master/devre/akilli_ev_devre_bb.png"></img>
+## Notlar
 **Android uygulamasını düzenlemek için apk proje geliştirme dosyasını (android/proje.aia uzantılı dosya) AppInventor'a yükleyerek bunu kolayca yapabilirsiniz.**
 Bunun için aşağıdaki talimatları izleyin:
 
@@ -64,8 +66,7 @@ Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
 Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedirzanademir+destek@gmail.com
 ## Proje Dosyalarını İndir
 <a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino-Download</a>
-## Devre Şeması
-<img src="https://raw.githubusercontent.com/BedirDemir/AKILLI_EV_ARDUINO/master/devre/akilli_ev_devre_bb.png"></img>
+
 ## Görseller
 <img src="https://raw.githubusercontent.com/BedirDemir/AKILLI_EV_ARDUINO/master/resimler/5.JPG"></img>
 
