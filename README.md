@@ -18,10 +18,13 @@ Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların 
 - Her işlem yaptığında buzzer kullanarak bip sesi çıkarır.
 - Yaptığı işlemleri LCD ekrana yazarak kullanıcıyı bilgilendirir.
 
+## Proje Dosyalarını İndir
+<a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino-Download</a>
+
 **Android uygulamasını düzenlemek için apk proje geliştirme dosyasını (android/proje.aia uzantılı dosya) AppInventor'a yükleyerek bunu kolayca yapabilirsiniz.**
 Bunun için aşağıdaki talimatları izleyin:
 
-1) https://ai2.appinventor.mit.edu/ adresine gidin. ***NOT: Eğer appinventor'un ne olduğunu ve nasıl kullanıldığını bilmiyorsanız şu videoyu izleyebilir > https://www.youtube.com/watch?v=SgH3H6jMbak veya şu yazıyı okuyabilirsiniz > https://maker.robotistan.com/app-inventor-dersleri-1-tanitim-ilk-uygulama/***
+1) http://ai2.appinventor.mit.edu/ adresine gidin. ***NOT: Eğer appinventor'un ne olduğunu ve nasıl kullanıldığını bilmiyorsanız şu videoyu izleyebilir > https://www.youtube.com/watch?v=SgH3H6jMbak veya şu yazıyı okuyabilirsiniz > https://maker.robotistan.com/app-inventor-dersleri-1-tanitim-ilk-uygulama/***
 
 2) Giriş yaptıktan sonra ana ekranda sol üstte yer alan "Projects > Import project (.aia) from my computer" a tıklayın.
 
@@ -31,7 +34,7 @@ Bunun için aşağıdaki talimatları izleyin:
 
 <img src="https://raw.githubusercontent.com/bedirdemir/Akilli_Ev_Arduino/master/resimler/t2.jpg"></img>
 
-İşlem bu kadar. Artık projede kullanılan Android uygulamasını isteğinize göre düzenleyebilirsiniz. Düzenlediğiniz uygulamayı bilgisayara apk dosyası olarak indirmek için üstte ki "Build > App ( save .apk to my computer )" a tıklayın.
+İşlem bu kadar. Artık projede kullanılan Android uygulamasını isteğinize göre düzenleyebilirsiniz. Düzenlediğiniz uygulamayı bilgisayara apk dosyası olarak indirmek için üstteki "Build > App ( save .apk to my computer )" a tıklayın.
 
 <img src="https://raw.githubusercontent.com/bedirdemir/Akilli_Ev_Arduino/master/resimler/t6.jpg"></img>
 
@@ -55,12 +58,12 @@ Bunun için aşağıdaki talimatları izleyin:
 
 <img src="https://raw.githubusercontent.com/bedirdemir/Akilli_Ev_Arduino/master/resimler/t5.jpg"></img>
 
-Üsttede belirttiğim gibi, 2.yolu 1.yol işe yaramazsa uygulayın.
+Üstte de belirttiğim gibi, 2.yolu 1.yol işe yaramazsa uygulayın.
 
 Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
 
 Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedirzanademir+destek@gmail.com
-## İndir
+## Proje Dosyalarını İndir
 <a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino-Download</a>
 ## Devre Şeması
 <img src="https://raw.githubusercontent.com/BedirDemir/AKILLI_EV_ARDUINO/master/devre/akilli_ev_devre_bb.png"></img>
