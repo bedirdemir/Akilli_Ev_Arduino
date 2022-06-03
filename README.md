@@ -63,7 +63,7 @@ Bunun için aşağıdaki talimatları izleyin:
 
 Kartı beslerken 9V 2A adaptör kullanmanızı öneririm.
 
-Soru, görüş ve önerileriniz için mail gönderebilirsiniz: bedir+support@protonmail.com
+Soru, görüş ve önerileriniz için mail gönderebilirsiniz: support@bedirdemir.com
 ## Proje Dosyalarını İndir
 <a href="https://github.com/BedirDemir/AKILLI_EV_ARDUINO/archive/master.zip">Akıllı-Ev-Projesi-Arduino-Download</a>
 
